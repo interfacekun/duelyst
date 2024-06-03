@@ -9,6 +9,16 @@
 					"label": "anima"
 				}
 			]
+		},
+		{
+			"path": "app/sdk/cards/factory/misc/bosses.coffee",
+			"bookmarks": [
+				{
+					"line": 368,
+					"column": 34,
+					"label": "动画数据"
+				}
+			]
 		}
 	]
 }
