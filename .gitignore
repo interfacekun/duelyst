@@ -20,7 +20,6 @@ dump.rdb
 .sass-cache
 .tmp
 .vagrant/
-.vscode
 /.pgdata
 
 # OSX-specific artifacts
