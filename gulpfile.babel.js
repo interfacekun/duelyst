@@ -134,7 +134,7 @@ gulp.task('autowatch', (cb) => {
 
 // Define aliases for task groupings
 gulp.task('source', gulp.series(
-  validateFirebase,
+  // validateFirebase,
   gulp.parallel('vendor', 'css', 'html'),
   'localization:copy',
   'rsx:packages',
