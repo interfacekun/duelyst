@@ -19,6 +19,26 @@
 					"label": "动画数据"
 				}
 			]
+		},
+		{
+			"path": "app/sdk/cards/cardsLookup.coffee",
+			"bookmarks": [
+				{
+					"line": 9,
+					"column": 10,
+					"label": "卡片id"
+				}
+			]
+		},
+		{
+			"path": "app/sdk/cards/factory/unity/faction1.coffee",
+			"bookmarks": [
+				{
+					"line": 52,
+					"column": 4,
+					"label": "卡片定义"
+				}
+			]
 		}
 	]
 }
