@@ -39,6 +39,16 @@
 					"label": "卡片定义"
 				}
 			]
+		},
+		{
+			"path": "app/localization/locales/zh-tw/cards.json",
+			"bookmarks": [
+				{
+					"line": 510,
+					"column": 0,
+					"label": "i18"
+				}
+			]
 		}
 	]
 }
